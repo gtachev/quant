@@ -1,5 +1,5 @@
 # quant
-Quant / ML / DL/ AI / Data Science Playground
+Quant / ML / DL / AI / Data Science Playground
 
 
 To run:
