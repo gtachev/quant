@@ -11,4 +11,4 @@
 
 ![stats 2](./4.4_2.png?raw=true "Stats 2")
 
-[Detail report pdf]([./assets_indicators_4.4.pdf?raw=true))
+[Detail report pdf](./assets_indicators_4.4.pdf?raw=true)
