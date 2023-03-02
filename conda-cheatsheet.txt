@@ -1,0 +1,23 @@
+# run
+cd projects/quant
+source ~/anaconda3/bin/activate
+conda activate ./env
+jupyter notebook
+
+# create new env with packages
+conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter seaborn tensorflow-gpu
+
+# add package
+conda install jupyter
+
+# export environment to yml file
+conda env export > environment.yml
+
+# create environment from yml file
+conda env create -f environment.yml
+
+# stop environment
+conda deactivate
+
+# list environments
+conda env list
